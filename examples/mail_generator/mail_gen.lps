@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="mail_gen.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="9"/>
+        <CursorPos X="20" Y="34"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\TemplateRuntime.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\..\src\TemplateParser.pas"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="60" Y="9"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="10">
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="47" Column="65" TopLine="30"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="154" TopLine="120"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="12" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="..\..\src\TemplateParser.pas"/>
+        <Caret Line="9" Column="60"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="70" Column="12" TopLine="54"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="3" Column="25"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="92" Column="3" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="67" TopLine="52"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="168" Column="5" TopLine="135"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="91" Column="20" TopLine="73"/>
+      </Position>
+      <Position>
+        <Filename Value="mail_gen.lpr"/>
+        <Caret Line="151" Column="28" TopLine="136"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
